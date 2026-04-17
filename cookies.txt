@@ -1,0 +1,21 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.youtube.com	TRUE	/	TRUE	1810510126	__Secure-3PAPISID	bfrRcUIMIjLEgnlf/A5bY7QPR6t_vPHnI3
+.youtube.com	TRUE	/	TRUE	1808735552	LOGIN_INFO	AFmmF2swRQIhAI6G4AnUQq4uoWUrHJI6964Db29apvTf3twPvURkKvZ2AiAQeCEJsv1g4Ls_pJroYJnoYlrsO0RjIk4wFsp0vl53vg:QUQ3MjNmd2RLS2ZMQjRaVmthdUVmRmlSZ2U4VHNkbmc2bHlhUVRrbUQ5Nl94dDFuVWd6MmF5b1NLN29GZjFRSmJncEdSRjhjNm1MN3FHZTJkQWx2QTl0S0hmY0lfbVJGeldFeE1ENXllcWgxNDVKT0s0R25MdmN5QVRmcjUwLUFEU2dIQkJzeFVCLWlJMlNQcE1MbnpqMHZSWG5PNGFiQ0FR
+.youtube.com	TRUE	/	TRUE	1810955846	PREF	f6=40000000&tz=Asia.Barnaul&f7=100
+.youtube.com	TRUE	/	TRUE	1810510126	__Secure-3PSID	g.a0008ggjhV3DW0ENQISCqBWaTRxrZ04o5P-zGX39GR9ySCiCzj74__dvQY7x7wGvublg0f0FmwACgYKAWASARcSFQHGX2MiPSav7yw4fhYV4JJETK9teBoVAUF8yKp6GVkR47eS6dSh2IBiWm_z0076
+.youtube.com	TRUE	/	TRUE	1791135540	__Secure-BUCKET	CJAF
+.youtube.com	TRUE	/	TRUE	1791946734	VISITOR_INFO1_LIVE	2COd6xt2YFs
+.youtube.com	TRUE	/	TRUE	1791946734	VISITOR_PRIVACY_METADATA	CgJSVRIEGgAgWw%3D%3D
+.youtube.com	TRUE	/	TRUE	1791835429	__Secure-YNID	17.YT=f5cKScgOMj9yiKpAHJHyMnLSk6KWyP0MGOL1soNIk8lDNCBzWJJ5NcseGRVZJqjo_9Y-5sUr-D4PI_n3q6zS0QrXPCaz2rEJi3f2ppzAkuW5er9KblMlsAjlZfw8xOj2wcCmEHTq3sG9ZnECRg-HvGJqwe98jIPGraPZAfcV4ZxOFbTzcAXazRbsvBegrYqT71mGr1hwkguY5b32EpnbfUmRsW4hi48DyTwwHO2zOqSDqkefd9ZG3mP_dxjpW5GZDH7VCO3ZlpQbtwE1sVwJ28xpNfHABYOYpCrP1B9GIfX6b6ktcbM0WHlqymdgkoZmYUqcTw7UAT3xJ8OHcWuhFQ
+www.youtube.com	FALSE	/	FALSE	1776411807	funnelData	{"loupe":{"percent":30,"isPanelShown":false},"cursor":{"percent":21,"isPanelShown":false},"blurb":{"percent":14,"isPanelShown":false},"darkmood":{"percent":50,"isPanelShown":false}}
+.youtube.com	TRUE	/	TRUE	0	YSC	9oaNUntlFFo
+.youtube.com	TRUE	/	TRUE	1807934081	__Secure-1PSIDTS	sidts-CjUBWhotCWEpaev8dnQcf8VvkHujiSBDeR2_3w529Tly8Y_Lj2wfNfxxOlqN0bWIRrAdfZ8OJRAA
+.youtube.com	TRUE	/	TRUE	1807934081	__Secure-3PSIDTS	sidts-CjUBWhotCWEpaev8dnQcf8VvkHujiSBDeR2_3w529Tly8Y_Lj2wfNfxxOlqN0bWIRrAdfZ8OJRAA
+.youtube.com	TRUE	/	TRUE	1807934081	__Secure-3PSIDCC	AKEyXzUFVFywxqzhed4IKQYsIKpdsp4Q6BasPoeW4sELjblvSbFDJFPSVkjagYljHwFtfNQSuSI
+.youtube.com	TRUE	/	TRUE	1791947849	VISITOR_INFO1_LIVE	sOhsWj8_Qaw
+.youtube.com	TRUE	/	TRUE	1791947849	VISITOR_PRIVACY_METADATA	CgJSVRIEGgAgRQ%3D%3D
+.youtube.com	TRUE	/	TRUE	0	YSC	Cv0BrdgVeTM
+.youtube.com	TRUE	/	TRUE	1791905345	__Secure-ROLLOUT_TOKEN	CIn_9or_1qvYShCIx6H0zJqSAxj1xaPv1_KTAw%3D%3D

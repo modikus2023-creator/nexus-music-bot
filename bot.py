@@ -191,9 +191,9 @@ async def leave(ctx: discord.ApplicationContext):
 @bot.slash_command(name="nexus", description="История создания фамы Nexus")
 async def nexus(ctx: discord.ApplicationContext):
     story = """
-╔═════════════════════════════════════════════════════╗
-║               📜 ИСТОРИЯ NEXUS 📜                  ║
-╚═════════════════════════════════════════════════════╝
+╔══════════════════════════════════════╗
+║         📜 ИСТОРИЯ NEXUS 📜         ║
+╚══════════════════════════════════════╝
 
 **🌅 КАК ВСЁ НАЧИНАЛОСЬ...**
 
